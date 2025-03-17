@@ -1,15 +1,15 @@
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import FeatureSection from "./components/FeatureSection";
-import Pricing from "./components/Pricing";
+import Products from "./components/Products";
 import Footer from "./components/Footer";
 import SustainableFashion from "./components/SustainableFashion";
 import Budget from "./components/Budget";
 import Target from "./components/Target";
 import MarketingStrategies from "./components/MarketingStrategies";
 import SuccessStory from "./components/SuccessStory";
-import Conclusion from "./components/Conclusions";
-import TeamMembers from "./components/TeamMembers";
+// import Conclusion from "./components/Conclusions";
+// import TeamMembers from "./components/TeamMembers";
 import Benefits from "./components/Benefits";
 
 const App = () => {
@@ -22,15 +22,15 @@ const App = () => {
         <SustainableFashion />
         <FeatureSection />
         <Benefits />
-        <Pricing />
+        <Products />
         <Budget />
         <Target />
 
         <MarketingStrategies />
 
         <SuccessStory />
-        <Conclusion />
-        <TeamMembers />
+        {/* <Conclusion /> */}
+        {/* <TeamMembers /> */}
 
         <Footer />
       </div>

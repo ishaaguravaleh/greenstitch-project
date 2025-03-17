@@ -9,7 +9,7 @@ const SustainableFashion = () => {
           <img
             src={sustainableFashionImg}
             alt="Sustainable Fashion"
-            className="rounded-lg shadow-lg w-full"
+            className="rounded-lg w-full"
           />
         </div>
 
@@ -17,7 +17,7 @@ const SustainableFashion = () => {
         <div className="w-full lg:w-1/2">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl  tracking-wide">
             What is
-            <span className="bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text">
+            <span className="bg-gradient-to-r from-[#D99B8F] to-[#A86A5C] text-transparent bg-clip-text">
               {" "}
 
               Sustainable Fashion ?

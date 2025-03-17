@@ -16,7 +16,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center">
           <img src={logo} alt="Logo" className="h-12 w-12" />
-          <span className="text-xl tracking-tight">GreenStitch</span>
+          <span className="text-xl tracking-tight">GreenStitches</span>
         </div>
 
         {/* Desktop Menu */}
