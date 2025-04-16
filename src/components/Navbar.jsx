@@ -16,7 +16,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center">
           <img src={logo} alt="Logo" className="h-12 w-12" />
-          <span className="text-xl tracking-tight">GreenStitches</span>
+          <span className="text-xl tracking-tight">ENVOSTITCH</span>
         </div>
 
         {/* Desktop Menu */}
@@ -27,7 +27,7 @@ const Navbar = () => {
           <button onClick={() => scrollToSection("target")} className="cursor-pointer">Target</button>
           <button onClick={() => scrollToSection("marketing")} className="cursor-pointer">MarketingStrategies</button>
           <button onClick={() => scrollToSection("successstory")} className="cursor-pointer">SuccessStory</button>
-          <button onClick={() => scrollToSection("team")} className="cursor-pointer">Team</button>
+          {/* <button onClick={() => scrollToSection("team")} className="cursor-pointer">Team</button> */}
 
         </div>
 

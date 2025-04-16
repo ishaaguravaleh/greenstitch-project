@@ -10,7 +10,7 @@ const FeatureSection = () => {
             Why  
             <span className="bg-gradient-to-r from-[#D99B8F] to-[#A86A5C] text-transparent bg-clip-text">
               {" "} Sustainable Fashion
-            </span> Matters
+            </span> Matters ?
           </h2>
         </div>
 

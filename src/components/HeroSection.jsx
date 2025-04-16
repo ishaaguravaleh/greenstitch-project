@@ -13,7 +13,7 @@ const HeroSection = () => {
   return (
     <div className="flex flex-col items-center mt-5 lg:mt-10">
       <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-        GreenStitches
+        ENVOSTITCH
         <span className="bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text">
           {" "}
 
